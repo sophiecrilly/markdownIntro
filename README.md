@@ -17,7 +17,10 @@ Casual work assisting the Production team with various tasks as required.
 Sales assistant doing various different jobs within the store and stockroom.
 
 ### | Qualifications
-* NCEA Level 1 - completed 2015
-* NCEA Level 2 - completed 2016
-* Diploma in Web and Graphic Design - completed 2019
+* Sacred Heart College    
+NCEA Level 1 - completed 2015   
+NCEA Level 2 - completed 2016   
+
+* Yoobee Colleges   
+Diploma in Web and Graphic Design - completed 2019
 
