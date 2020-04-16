@@ -1,12 +1,23 @@
-# Introduction to Markdown
-> This is a project to introduce us to how to write markdown
+# Sophie Crilly
 
-* Item 1
-* Item 2
-* Item 3
-* 
-```html
-<div class="container">
-</div>
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor pharetra pretium. Phasellus nunc sapien, tristique quis augue dignissim, placerat dictum metus. Nunc in purus gravida, tempus lacus ac, faucibus quam. Nunc tincidunt nulla commodo leo semper facilisis. Duis sapien nisi, aliquet nec est ac, efficitur commodo ligula. Ut malesuada massa non tempor rutrum. Curabitur tincidunt gravida tortor non elementum. Nullam eget justo vel ante tincidunt vestibulum. Morbi nec convallis nibh, sit amet consequat turpis. Vivamus ex justo, viverra vitae feugiat vel, efficitur eget est. In dignissim mauris nisi, at dignissim tellus efficitur ut. Donec purus arcu, ultricies non metus sit amet, mattis dapibus velit. Aliquam sit amet erat sodales, ultricies quam id, rutrum lorem. Fusce elementum vestibulum velit, et scelerisque mi sollicitudin nec. Nunc tincidunt ipsum porttitor, egestas massa in, vestibulum enim.
+### | Personal Statement 
+I am a polite, honest and trustworthy person.  I enjoy meeting new people and being able to help them with everyday tasks.  I am very reliable and this is reflected by my good attendance at school.   I believe this attribute is essential in the workforce.  My friendly and positive attitude towards people from all walks of life is also an important quality.  I work well as part of a team and this is shown in my enjoyment and commitment to my fellow team members in the sports teams I have been part of.
+
+### | Employment History
+#### Company: PMP Distribution
+*Employed: May 2014 – October 2014*   
+Paper and brochure delivery. Twice weekly - folded brochures and Hutt News and delivered to approximately 250 neighbourhood houses.
+	
+#### Company: Label & Litho
+*Employed: 2017 - 2019*   
+Casual work assisting the Production team with various tasks as required.
+
+#### Company: Kmart Petone
+*Employed: April 2017 - Current*   
+Sales assistant doing various different jobs within the store and stockroom.
+
+### | Qualifications
+* NCEA Level 1 - completed 2015
+* NCEA Level 2 - completed 2016
+* Diploma in Web and Graphic Design - completed 2019
+
